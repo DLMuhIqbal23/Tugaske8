@@ -5,12 +5,12 @@ Selanjutnya masukkan perulangan for i in range(x) dan dibawahnya masukkan list_a
 lalu untuk print (===) dan 2 dibawahnya itu terserah kalian mau mendesainnya bagaimana dan untuk "\t" itu gunannya untuk tab seperti di MsWord.<p>
 Lalu masukkan perulangan for i in range (x) dan dibawahnnya masukkan list_no append(i+1), kenapa i+1? agar nanti list_no itu dimulai dengan angka 1, dan dibawahnnya ketik print("| %i  |\t\t%s\t\t|\t%i\t|    %i   |   %i  |   %i   |  {:.2f} |".format(list_akhir[i]) % (list_no[i], list_nama[i], list_nim[i], list_tugas[i], list_uts[i], list_uas[i])), {:.2f} |"format(list_akhir[i]) ini agar nanti {:.2f} akan memanggil list_akhir secara otomatis dan{:.2f} berfungsi untuk membatasi nilai desimal menjadi 2 angka dibelakang koma karena f itu adalah float atau bilangan desimal, lalu untuk yang lainnya kenapa menggunakan persen? sama seperti tadi % berfungsi untuk memanggil array list yang tadi lalu setelahnya sesuaikan bila list arraynya integer maka pakailah %i, dan jika list arraynya menggunakan string maka pakailah %s, dan terakhir print(=====) gunanya untuk merapihkan saja.<p>
 Dan ini contoh kodenya<p>
-[Gambar 1](ss/ss2.png)
-[Gambar 2](ss/ss3.png)
+![Gambar 1](ss/ss2.png)
+![Gambar 2](ss/ss3.png)
 Dan ini hasil dari kode yang tadi:
-[Gambar 3](ss/ss1.png)
+![Gambar 3](ss/ss1.png)
 Dan ini adalah flowchartnya:<p>
 Halaman pertama
-[Gambar 4](ss/ss4.png)
+![Gambar 4](ss/ss4.png)
 Halaman 2
-[Gambar 5](ss/ss5.png)
+![Gambar 5](ss/ss5.png)
